@@ -58,7 +58,7 @@ ABOUT DOTWEB3.0 Programming Language
 =======================================
 
 
-Like DOTNET P.L , DOTWEB3.0 Programming Language consists of 5 Programming Langauges they are given below.....
+Like DOTNET P.L , DOTWEB3.0 Programming Language consists of 6 Programming Langauges they are given below.....
 
 a) JWEB -J$
 
