@@ -33,10 +33,6 @@ as WORLD Rank Z'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 and DOTWEB3.0 is (infinitive power infinitive) times greater than JAVA/j2ee.
 
-JDollar(JWEB) P.L name  is  changed  as  DOTWEB3.0 P.L
-
-at  year  2018.
-
 
 When it was Invented? Who invented it?
 
